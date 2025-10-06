@@ -22,7 +22,7 @@ Add a short gameplay GIF or screenshot here:
 ### Getting Started
 #### Option 1: Open locally (no server)
 1. Download/clone the repo.
-2. Double‑click `index.html` to open it in your browser.
+2. Click `https://cybercatch.vercel.app/` to open it in your browser.
 
 Note: Some browsers restrict local file APIs. If anything looks off, use a local server.
 
