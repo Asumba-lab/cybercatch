@@ -8,10 +8,6 @@
 ### Overview
 Cyber Threat Defender is a lightweight browser game where you slide a defender to catch falling cybersecurity threats. Each catch teaches a quick tip (phishing, malware, ransomware, social engineering, DDoS) while you rack up points, level up, and try not to lose your lives.
 
-### Demo
-Add a short gameplay GIF or screenshot here:
-`docs/demo.gif` (placeholder)
-
 ### Features
 - **Educational tips**: Contextual security advice shown on catches/misses.
 - **Multiple threat types**: Phishing, Malware, Ransomware, Social Engineering, DDoS; each with points/penalties.
